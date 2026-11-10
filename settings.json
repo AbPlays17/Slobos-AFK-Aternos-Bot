@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "TheCrownFallSMP.aternos.me",
+    "port": 32484,
     "version": "",
     "try-creative": false
   },
